@@ -1,0 +1,28 @@
+{
+  "title": "Disease And Symptoms Data Analysis",
+  "description": "Archived public-health data-analysis coursework upgraded with reproducibility, data dictionary and validation notes.",
+  "equations": [
+    "Contingency-table frequency",
+    "Conditional symptom probability P(symptom|disease)"
+  ],
+  "references": [
+    "Altman, D.G., 1990. Practical Statistics for Medical Research. Chapman and Hall."
+  ],
+  "anchors": [
+    {
+      "x": 1,
+      "y": 0.2,
+      "label": "low association"
+    },
+    {
+      "x": 2,
+      "y": 0.5,
+      "label": "moderate association"
+    },
+    {
+      "x": 3,
+      "y": 0.8,
+      "label": "strong association"
+    }
+  ]
+}
